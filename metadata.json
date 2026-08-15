@@ -1,0 +1,6 @@
+{
+  "name": "ZakatMint",
+  "description": "A modern, trustworthy, and precise Zakat calculator and guide supporting multi-currency, gold/silver Nisab, Urdu language, and privacy-focused local calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
